@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Profile_in_a_social_network.github.io/static/css/main.d1586f3a.css",
+    "main.js": "/Profile_in_a_social_network.github.io/static/js/main.53a7a891.js",
+    "index.html": "/Profile_in_a_social_network.github.io/index.html",
+    "main.d1586f3a.css.map": "/Profile_in_a_social_network.github.io/static/css/main.d1586f3a.css.map",
+    "main.53a7a891.js.map": "/Profile_in_a_social_network.github.io/static/js/main.53a7a891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1586f3a.css",
+    "static/js/main.53a7a891.js"
+  ]
+}
