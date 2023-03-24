@@ -16,7 +16,7 @@ function App() {
         avatar={user.avatar}
         stats={user.stats}
       />
-      <FriendList friends={friends} />
+      <FriendList list={'List of friends'} friends={friends} />
     </div>
   );
 }

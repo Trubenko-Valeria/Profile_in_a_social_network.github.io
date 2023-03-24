@@ -1,6 +1,12 @@
+.list {
+  text-align: center;
+  color: grey;
+  text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0,0,0,0.15);
+}
+
 .friend_list {
   width: 100%;
-  margin: 20px auto;
+  margin: 10px auto;
   justify-content: center;
-
+  text-align: center;
 }
