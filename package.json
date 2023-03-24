@@ -1,7 +1,7 @@
 {
   "name": "main",
   "version": "0.1.0",
-  "homepage": "https://trubenko-valeria.github.io/To_do_list.github.io/",
+  "homepage": "https://trubenko-valeria.github.io/Profile_in_a_social_network.github.io/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
